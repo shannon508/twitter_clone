@@ -12,7 +12,7 @@ Check out [LIVE DEMO here!!]()
 # Tech used
 * Html
 * Css
-* Boo* Users can post tweets.
+* Users can post tweets.
 * Users can edit tweets.
 * Users can delete tweets.
 * Users can send a like to a tweet.
