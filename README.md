@@ -9,9 +9,10 @@ Check out [LIVE DEMO here!!](https://twitterclone.shannonsterba.repl.co)
 # Screenshot    ![twitter_clone_p](https://user-images.githubusercontent.com/71108590/201215556-4d64513c-56e2-4989-ab19-c099c85c1cea.png)
 
 
-# Tech used
+# Technology used
 * Html
 * Css
+* Django
 * Users can post tweets.
 * Users can edit tweets.
 * Users can delete tweets.
